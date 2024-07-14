@@ -18,4 +18,3 @@ This Flutter application helps users organize their clothing items in a suitcase
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/packing_app.git
